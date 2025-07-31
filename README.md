@@ -19,4 +19,8 @@ This repository contains the code and data needed to reproduce the main results 
 
 ## 3. How to run the code 
 Users should run the main Jupyter Notebook file, where they have the option to choose either RC or Steel dataset. The optimization code for the RC building case study is provided. 
-Users can modify this code to reproduce the optimization for the steel dataset by changing the design parameters based on the steel Dataset. 
+Users can modify this code to reproduce the optimization for the steel dataset by adjusting the design parameters according to the steel Dataset. 
+
+## 3. Repository DOI
+You can cite this repository as follows: 
+Stochastic Structures Research Group. (2025). StoStruct/PBS_Inverse_Problem_paper: PBS_Inverse_Problem_v1.0 (papers). Zenodo. https://doi.org/10.5281/zenodo.16648424
