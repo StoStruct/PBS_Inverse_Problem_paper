@@ -1,4 +1,4 @@
-# Code and Data for treating PBD as inverse problem
+# Code and Data for "treating PBD as an inverse problem" paper
 # 1. Overview
 This repository contains the code and data needed to reproduce the main results of the paper
 > 📌 **Please cite the following paper if you use this repository**  
